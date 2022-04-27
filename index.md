@@ -22,7 +22,7 @@ Our project is a carpooling website where the core feature is carpooling to even
 
 #### Goal
 
-Create a foundation with a project website.
+Create a foundation for the website, with the ability to add users and events, with a project website.
 
 ## Members
 
