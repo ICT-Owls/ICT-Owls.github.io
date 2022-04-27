@@ -44,8 +44,6 @@ Create a foundation with a project website.
 
 ### Francis Gniady
 
-Developer
-
 [Github](https://github.com/volcanocookies)
 
 [frkg@kth.se](mailto:frkg@kth.se)
