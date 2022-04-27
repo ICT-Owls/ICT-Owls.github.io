@@ -1,7 +1,3 @@
-# Team Owls
-
-Welcome to the team owls info page.
-
 ## Idea
 
 A carpooling website where you can create events and facilitate easy carpooling to those events for all invited.
