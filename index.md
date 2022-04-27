@@ -4,6 +4,12 @@ A carpooling website where you can create events and facilitate easy carpooling 
 
 ## Members
 
+### Münzer Abdalah - Scrum master
+
+[Github](https://github.com/munzer1993)
+
+[mmab@kth.se](mailto:mmab@kth.se)
+
 ### Samson Emblad
 
 [Github](https://github.com/samsonsin)
@@ -47,12 +53,6 @@ Developer
 [Github](https://github.com/Magma980)
 
 [dodieva@kth.se](mailto:dodieva@kth.se)
-
-### Münzer Abdalah
-
-[Github](https://github.com/munzer1993)
-
-[mmab@kth.se](mailto:mmab@kth.se)
 
 ## Sprints
 
