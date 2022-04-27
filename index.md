@@ -1,3 +1,5 @@
+# Team Owls
+
 ## About the project
 
 Our project is a carpooling website where the core feature is carpooling to events that users can create. The website will also have some other nice features such as allowing users to view their friends events, and allowing event hosts to invite people to those events.
