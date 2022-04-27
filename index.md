@@ -2,6 +2,26 @@
 
 A carpooling website where you can create events and facilitate easy carpooling to those events for all invited.
 
+## Sprints
+
+### Sprint 1
+
+25-04-2022 - 29-04-2022
+
+#### Stories
+
+-   Decide on tech-stack
+-   Initial UI Development
+-   Create project website
+-   Setup project website
+-   Have a website
+-   User signup/login
+-   Event Creating
+
+#### Goal
+
+Create a foundation with a project website.
+
 ## Members
 
 ### Münzer Abdalah - Scrum master
@@ -53,23 +73,3 @@ Developer
 [Github](https://github.com/Magma980)
 
 [dodieva@kth.se](mailto:dodieva@kth.se)
-
-## Sprints
-
-### Sprint 1
-
-25-04-2022 - 29-04-2022
-
-#### Stories
-
--   Decide on tech-stack
--   Initial UI Development
--   Create project website
--   Setup project website
--   Have a website
--   User signup/login
--   Event Creating
-
-#### Goal
-
-Create a foundation with a project website.
