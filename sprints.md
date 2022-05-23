@@ -67,5 +67,3 @@ Basic carpooling functionality with complete user accounts.
 ### Goal
 
 Finish all the necessary functionality.
-
-{% include members.md %}
