@@ -12,13 +12,12 @@ Our project is a carpooling website where the core feature is carpooling to even
 
 #### Stories
 
--   Decide on tech-stack
--   Initial UI Development
--   Create project website
--   Setup project website
--   Have a website
--   User signup/login
--   Event Creating
+- [x] Decide on tech-stack
+- [x] Create project website
+- [x] Create an app web page
+- [ ] User signup/login
+- [ ] Event Creating
+- [ ] Initial UI Development
 
 #### Goal
 
@@ -30,9 +29,10 @@ Create a foundation for the website, with the ability to add users and events, w
 
 #### Stories
 
-- UI Skeleton
-- Event creating
-- User signup/login
+- [x] Event listing
+- [x] Event creating
+- [x] User signup/login
+- [ ] User registration
 
 #### Goal
 
@@ -44,10 +44,10 @@ Users can register, log in, create an event, and view their created events.
 
 #### Stories
 
-- UI Skeleton
-- Front-end data management
-- Event User Adding
-- User can request carpooling
+- [x] UI Skeleton
+- [x] Front-end data management
+- [ ] Event User Adding
+- [ ] User can request carpooling
 
 #### Goal
 
@@ -59,10 +59,10 @@ Basic carpooling functionality with complete user accounts.
 
 #### Stories
 
-- Car registration / Carpooling offering
-- User can add passengers
-- Driver pickup map
-- Event History
+- [x] Car registration / Carpooling offering
+- [x] User can add passengers
+- [x] Event History
+- [ ] Driver pickup map
 
 #### Goal
 
