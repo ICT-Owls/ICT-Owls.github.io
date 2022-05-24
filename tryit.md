@@ -28,7 +28,7 @@ To use OwlSport, you will need a user account. To simplify things, we have set u
 
 ### What to try
 
-Sign in with one of the above accounts and try creating an event with some of the other accounts invited. Try opening the event and requesting carpooling. Then sign into different accounts to see what options become available to them.
+Sign in with one of the above accounts and try creating an event with some of the other accounts invited. Try opening the event and requesting carpooling. Then sign into different accounts to see what options become available to them. Currently you unfortunately cannot invite more users *after* creating the event, so be sure to invite people from the start..
 
 ## Keep in mind
 
