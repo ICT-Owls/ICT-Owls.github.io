@@ -16,7 +16,6 @@ To use OwlSport, you will need a user account. To simplify things, we have set u
 
 | Email              | Name             |
 | ------------------ | ---------------- |
-| test@test.com      | Test Testson     |
 | erik@owlsport.se   | Erik Eriksson    |
 | muhja@owlsport.se  | Muhja Aboud      |
 | zach@owlsport.se   | Zacharias Eklund |
