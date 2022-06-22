@@ -10,6 +10,10 @@ The website is available at [https://www.owlsport.se](https://www.owlsport.se).
 
 Because OwlSport is not a finished product, we will provide a guide here to navigate the prototype.
 
+### What to try
+
+Sign in with one of the above accounts and try creating an event with some of the other accounts invited. Try opening the event and requesting carpooling. Then sign into different accounts to see what options become available to them. Currently you unfortunately cannot invite more users *after* creating the event, so be sure to invite people from the start..
+
 ### Accounts
 
 To use OwlSport, you will need a user account. To simplify things, we have set up some already for you to use. For each account, the password is simply **`testing`**.
@@ -24,10 +28,6 @@ To use OwlSport, you will need a user account. To simplify things, we have set u
 | amy@owlsport.se    | Amy McMillan     |
 | amina@owlsport.se  | Amina Negassi    |
 | marco@owlsport.se  | Marco Dahl       |
-
-### What to try
-
-Sign in with one of the above accounts and try creating an event with some of the other accounts invited. Try opening the event and requesting carpooling. Then sign into different accounts to see what options become available to them. Currently you unfortunately cannot invite more users *after* creating the event, so be sure to invite people from the start..
 
 ## Keep in mind
 

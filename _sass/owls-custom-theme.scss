@@ -1,21 +1,34 @@
 .inline-icon {
-    height: 5cm;
-    width: 5cm;
-    justify-self: center;
-    align-self: center;
-    margin-right: 0.2em;
+  height: 5cm;
+  width: 5cm;
+  justify-self: center;
+  align-self: center;
+  margin-right: 0.2em;
 }
 
 .page-header {
-    padding-bottom: 1rem;
-    padding-top: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 2rem;
 }
 
 ul {
-    list-style-type: none;
-    padding-left: 0px;
+  list-style-type: none;
+  padding-left: 0px;
 
-    input {
-        margin-right: 1em;
-    }
+  input {
+    margin-right: 1em;
+  }
+}
+
+.btn .icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin: 1px 8px 0 0;
+  float: left;
+}
+
+.btn-github .icon {
+  opacity: 0.6;
+  background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
